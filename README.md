@@ -77,9 +77,8 @@ python format_bench_wo_output.py
 
 1. Clone the repository and install the environment.
 ```bash
-git clone https://github.com/Aurora-slz/Real-World-SQL-Bench.git
 
-cd ./Real-World-SQL-Bench/DySQL-Bench
+cd ./DySQL-Bench/DySQL-Bench
 
 conda create -n venv
 conda activate venv
