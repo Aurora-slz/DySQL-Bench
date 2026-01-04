@@ -1,6 +1,6 @@
 <h1 align="center">Rethinking Text-to-SQL: Dynamic Multi-turn SQL Interaction for Real-world Database Exploration</h1>
 
-<p align="center" style="font-size: 16px;">
+<!-- <p align="center" style="font-size: 16px;">
     Linzhuang Sun†, Tianyu Guo†, Hao Liang†, Yuying Li, Qifeng Cai, Jingxuan Wei, Bihui Yu,
     Wentao Zhang*, Bin Cui*
 </p>
@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2510.26495"><img src="https://img.shields.io/badge/📜_Paper-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white" alt="Paper"></a>
   <a href="https://huggingface.co/datasets/gtysssp/Real-World-SQL-Bench-Databases"><img src="https://img.shields.io/badge/🌐_Website-00C851?style=for-the-badge&logoColor=white" alt="Databases"></a>
-</p>
+</p> -->
 
 
 This repository contains the official implementation of our paper, **"Rethinking Text-to-SQL: Dynamic Multi-turn SQL Interaction for Real-world Database Exploration"**.
